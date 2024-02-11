@@ -92,3 +92,4 @@ target/
 env/
 
 /data
+.dvc\config
