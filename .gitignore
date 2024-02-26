@@ -92,4 +92,5 @@ target/
 env/
 
 /data
-.dvc\config
+.dvc/config
+.dvc/.gitignore
