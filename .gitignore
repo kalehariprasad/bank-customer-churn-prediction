@@ -93,4 +93,5 @@ env/
 
 /data
 .dvc/.gitignore
-.dvc/config
+/.dvc/config.local
+/logs
